@@ -40,7 +40,7 @@ cometo
 
 **(필수)** 제품 또는 서비스를 소개하는 슬라이드 덱을 리포지토리에 추가해 주세요. 슬라이드 덱은 [decks](./decks) 디렉토리에 저장한 후 이곳에 링크를 걸어주세요.
 [decks/헬퍼.pdf](./decks/헬퍼.ppf)
-[decks/헬퍼 발표준비.pptx](./decks/헬퍼 발표준비.pptx)
+[decks/헬퍼 발표준비.pptx](decks/헬퍼 발표준비.pptx)
 
 
 ## 제품 소개 동영상
